@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Chhayakanta
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+👋 Hi, I'm Chhayakanta  
+💻 Java & Spring Boot Developer | 4+ years of experience  
+⚡ Skilled in building scalable backend systems, REST APIs, and distributed applications  
+🔧 Hands-on with Docker, Kafka, MySQL, and DevOps workflows  
+📚 Passionate about clean code, concurrency, and automation  
+🚀 Exploring AI integrations with Spring Boot and modern cloud-native architectures  
+🌱 Always learning, experimenting, and sharing knowledge through projects
 
 
 <!---
